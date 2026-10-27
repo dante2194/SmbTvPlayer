@@ -1,0 +1,3 @@
+-dontwarn org.bouncycastle.**
+-dontwarn org.slf4j.**
+-keep class jcifs.** { *; }
